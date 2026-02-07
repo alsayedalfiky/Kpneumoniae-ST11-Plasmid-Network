@@ -11,5 +11,7 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - PubMLST database (specifically the K. pneumoniae scheme)
 - Kleborate (v3.2.4)
 - Kaptive (included with Kleborate for capsule typing)
+- Panaroo v1.5.2
+- GFF3 Files: Downloaded directly from NCBI RefSeq (2023-2024 cohort).
 
 # Citation: Manuscript under review.
