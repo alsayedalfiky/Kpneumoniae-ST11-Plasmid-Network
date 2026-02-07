@@ -15,6 +15,7 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - GFF3 Files: Downloaded directly from NCBI RefSeq (2023-2024 cohort).
 - R (v4.0 or later)
 - micropan (R package)
-- IQ-TREE v3.0.1  
+- IQ-TREE v3.0.1
+- iTOL v6 (https://itol.embl.de/)
 
 # Citation: Manuscript under review.
