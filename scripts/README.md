@@ -17,6 +17,6 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - micropan (R package)
 - IQ-TREE v3.0.1
 - iTOL v6 (https://itol.embl.de/)
-- R packages: ape
+- R packages: picante, ggplot2, dplyr, ape
 
 # Citation: Manuscript under review.
