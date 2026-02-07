@@ -4,5 +4,4 @@ Pangenome Dynamics: Modeling an open pangenome (Heaps' Law alpha = 0.5919).
 Plasmid Networks: Identification of "lineage-specific plasmotypes" and hub replicons (IncFII, IncFIB).
 Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., blaKPC-2 and blaCTX-M-15.
 
-Citation
-Manuscript under review
+Citation: Manuscript under review.
