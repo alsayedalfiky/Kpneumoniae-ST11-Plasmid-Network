@@ -19,5 +19,8 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - iTOL v6 (https://itol.embl.de/)
 - R packages: picante, ggplot2, dplyr, ape
 - ResFinder v4.7.0
+- KMA (v1.6.8) and PlasmidFinder (v2.1.6).
+- Enterobacteriaceae scheme from the Center for Genomic Epidemiology (CGE).
+- MOB-suite v3.1.9
 
 # Citation: Manuscript under review.
