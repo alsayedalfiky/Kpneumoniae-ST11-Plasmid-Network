@@ -13,5 +13,7 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - Kaptive (included with Kleborate for capsule typing)
 - Panaroo v1.5.2
 - GFF3 Files: Downloaded directly from NCBI RefSeq (2023-2024 cohort).
+- R (v4.0 or later)
+- micropan (R package)
 
 # Citation: Manuscript under review.
