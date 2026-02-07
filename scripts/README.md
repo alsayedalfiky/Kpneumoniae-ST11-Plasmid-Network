@@ -9,5 +9,7 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - GNU Parallel
 - mlst (e.g., Seemann T, mlst)
 - PubMLST database (specifically the K. pneumoniae scheme)
+- Kleborate (v3.2.4)
+- Kaptive (included with Kleborate for capsule typing)
 
 # Citation: Manuscript under review.
