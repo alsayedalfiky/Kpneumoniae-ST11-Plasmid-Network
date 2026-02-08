@@ -18,6 +18,7 @@ Genomic Stabilization: Chromosomal integration of key resistance genes, e.g., bl
 - IQ-TREE v3.0.1
 - iTOL v6 (https://itol.embl.de/)
 - R packages: picante, ggplot2, dplyr, ape
+- pandas, networkx, and matplotlib
 - ResFinder v4.7.0
 - KMA (v1.6.8) and PlasmidFinder (v2.1.6).
 - Enterobacteriaceae scheme from the Center for Genomic Epidemiology (CGE).
