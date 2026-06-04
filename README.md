@@ -62,3 +62,7 @@ Most scripts are self‑contained; intermediate outputs are written to a `result
 - scipy
 - statsmodels
 - seaborn
+
+## Citation
+If you utilize these scripts or workflows in your research, please cite:
+> *Alfiky, A., et al. (2026). A dual‑tier plasmid network drives the evolutionary success of a pandemic Klebsiella pneumoniae lineage. Scientific Reports (Under Review).*
